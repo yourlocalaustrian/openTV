@@ -11,5 +11,10 @@ All Xtream code links will be updated to another source in case it is neccessary
 ## FAQ
 **Q: Is this m3u internationally available?**
 A: Depends on what stream it is. Most xtream links work internationally (that I will put.)
+
 **Q: Will you ever use official sources?**
 A: Yes. I will attempt to use official sources as much as I can, only if they are not Geo-Blocked.
+
+**Q: How do I get an m3u?**
+A: You can find them under Releases, or under the folder 'Lists'
+
