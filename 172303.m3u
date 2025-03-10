@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ARD-alpha_logo_2019-01-07.svg/512px-ARD-alpha_logo_2019-01-07.svg.png" group-title="EU| AUSTRIJA",ARD alpha HD
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sef7g9V.png" group-title="EU| AUSTRIJA",arte HD [DE]
+https://s6.hopslan.com/arteX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DaMLXUQ.png" group-title="EU| AUSTRIJA",ATV HD
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EtRY4a2.png" group-title="EU| AUSTRIJA",BR HD
+https://s6.hopslan.com/brX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="EU| AUSTRIJA",Cartoon Network HD
+https://izle.canlitvapp.com/dcrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="EU| AUSTRIJA",Comedy Central HD
+https://s6.hopslan.com/vivaX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3RUAxC.png" group-title="EU| AUSTRIJA",Das Erste HD
+https://s6.hopslan.com/ardX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="EU| AUSTRIJA",Disney Channel HD
+https://s6.hopslan.com/disneyX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/512px-DMAX_HD.svg.png" group-title="EU| AUSTRIJA",DMAX HD
+https://s6.hopslan.com/dmaxX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="EU| AUSTRIJA",France24 HD
+https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hr-fernsehen_HD.svg/512px-Hr-fernsehen_HD.svg.png" group-title="EU| AUSTRIJA",hr-fernsehen HD
+https://s6.hopslan.com/hrX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_eins_Doku_HD_2016.png/512px-Kabel_eins_Doku_HD_2016.png" group-title="EU| AUSTRIJA",kabel eins Doku HD
+https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="EU| AUSTRIJA",kabel eins HD
+https://s6.hopslan.com/kabel1X/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KiKA_HD.svg/512px-KiKA_HD.svg.png" group-title="EU| AUSTRIJA",KI.KA HD
+https://s6.hopslan.com/kikaX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyEqyOI.png" group-title="EU| AUSTRIJA",KT1 HD
+https://ms02.w24.at/R9Partner/kt1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53h8cz.png" group-title="EU| AUSTRIJA",KURIER TV HD
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/omLVQ4r.png" group-title="EU| AUSTRIJA",LÄNDLETV HD
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="EU| AUSTRIJA",MDR HD
+https://s6.hopslan.com/mdrX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UzsmVhI.png" group-title="EU| AUSTRIJA",Melodie TV SD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="EU| AUSTRIJA",MTV Classic (Pluto) HD
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6697672f3a4ad20008deff80/master.m3u8?advertisingId=&appName=web&appVersion=9.9.0-e2729a4dfa8be2d9d34a4728d266539e8312987f&app_name=web&clientDeviceType=0&clientID=7f083ddc-f1af-49c3-9ef2-ad82d3aee6df&clientModelNumber=1.0.0&country=CH&deviceDNT=false&deviceId=7f083ddc-f1af-49c3-9ef2-ad82d3aee6df&deviceLat=47.3700&deviceLon=8.5200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=DE&serverSideAds=false&sessionID=1e36b274-fc00-11ef-afbd-a6e408e0dec1&sid=1e36b274-fc00-11ef-afbd-a6e408e0dec1&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImFmYjg0ZjVhLWVkY2UtNDEwYS04OTg3LWNkNTA3NTc0NTIzNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxZTM2YjI3NC1mYzAwLTExZWYtYWZiZC1hNmU0MDhlMGRlYzEiLCJjbGllbnRJUCI6IjE0Ni43MC4xMzUuMTQiLCJjaXR5IjoiWnVyaWNoIiwicG9zdGFsQ29kZSI6IjgwMDAiLCJjb3VudHJ5IjoiQ0giLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkRFIiwiZGV2aWNlTGF0Ijo0Ny4zNjk5OTg5MzE4ODQ3NjYsImRldmljZUxvbiI6OC41MjAwMDA0NTc3NjM2NzIsInByZWZlcnJlZExhbmd1YWdlIjoiZGUiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEzMy4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuOS4wLWUyNzI5YTRkZmE4YmUyZDlkMzRhNDcyOGQyNjY1MzllODMxMjk4N2YiLCJjbGllbnRJRCI6IjdmMDgzZGRjLWYxYWYtNDljMy05ZWYyLWFkODJkM2FlZTZkZiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJFdXJvcGUvWnVyaWNoIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiN2YwODNkZGMtZjFhZi00OWMzLTllZjItYWQ4MmQzYWVlNmRmIiwiZndWY0lEMkNvcHBhIjoiN2YwODNkZGMtZjFhZi00OWMzLTllZjItYWQ4MmQzYWVlNmRmIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiI3ZjA4M2RkYy1mMWFmLTQ5YzMtOWVmMi1hZDgyZDNhZWU2ZGYiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDAzLDEwMDEzLDEwMDE0LDEwMDE1LDEwMDE2LDEwMDIwIn19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6REU6TjJZd09ETmtaR010WmpGaFppMDBPV016TFRsbFpqSXRZV1E0TW1RellXVmxObVJtIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc0MTUxMjY5MCwiaWF0IjoxNzQxNDI2MjkwLCJqdGkiOiJmOWNjNThkNi0zOGIzLTRjMzgtYWU2Zi02YzUwZjE1Y2U0ZGIifQ.iDgfZPqkpS8WYCZJVInl8SxEtO92U6ArpwqekbordPE&masterJWTPassthrough=true&gdpr=1&gdprConsent=CQN81UAQN81UAAcABBDEBgFgAAAAAEJgACiQAAAThgiQAKAAsACoAFwAOAAgABJACcAKAAVAAvABkADSAHgAegA_ACKAEcAJgAToAuAC8AGIANAAbwA5gB-AEIAIaARABEgCOgEqASwAowBhgDKAHAAOcAfoBCACLAEYAI6ASUAn8BXgFfAMUAbgA4gB1AD2gH8ARMAi8BIgCWgEyAKTAVKAtYBeYC-gF_gMgAZIAywBngDcwHFwOpA6oCAIEOQJwgGhQB4ACoATgBUAD0AIoAXgA5gCVAHAAQgAjsBXgFfAPaAloBUsDqQOqCAHIAGAAaABCAC4AMAAtgByAHQARgAnABRAC1AGEAYoAygDYAHKAQABBACMAEeAKQAXIA4gDGgGgARMAlkBe4DFAGNgMgAcwA8wJABACIPAGAAKgBOAFQAPQAigBOADmAOCArwCvgHtAP4AlqB1IHVDgEEADAANAAgABgAFoAOgAjABRAC0AF4AMIAZQA2ABuADlAIAAggBGACVAFyANUAcQBTQDGgGgAWsAt4Be4DFAGNgMgAcwA8wB7I6ACAEQiAHABUAOCArwCvgHtAP4AlqB1IHVEABwAYQA2ACVAFyANUAcQBTQDGgLWAW8AvcBigDIAHMEoCgACwAOAA8ACIAEwALgAYoBDAESAI4AUYArQDFAHUARMAi8BIgC8wGSAMsAgCSABAAXAUmUAPAANAAgABgAFoAOgAjABRAC2AF4AMIAZQA2QBvAHKAQABBACMgEqASwA4gCEAEtAKaAY0AzIBoAEagL3AX-AxQBzEDqQOqAeYVAEQAnACoAIoAcwBwQFeAV8BLQC1gGQFIAIARAAAA.YAAACEwAAAAA&includeExtendedEvents=true&gpp=DBABMA~CQN81UAQN81UAAcABBDEBgFgAAAAAEsAACiQAAAThADAFCImhKA0FCiAOIIEQAgrCBgAQAAAAECAAAIEAAAQAgAKEBAAAAQAAAAMAAAAAACAAAAAAAIAIAAgAAAQACAAAAAACAQAACAAAIAgAAAAAABAABAAAAAAAAgAAABAhAAAAAIgIAAgAAAAAAAAQAAAQAAAAYAAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA.YAAACWAAAAAA&gpp_sid=2&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%225952618d-71dc-42c3-a4cc-b2b4b66083a2%22%2Csu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="EU| AUSTRIJA",MTV HD
+https://s6.hopslan.com/mtvX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/N-tv-HD-September.svg/512px-N-tv-HD-September.svg.png" group-title="EU| AUSTRIJA",n-tv HD
+https://s6.hopslan.com/ntvX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png" group-title="EU| AUSTRIJA",N24 Doku HD
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="EU| AUSTRIJA",NDR HD
+https://s6.hopslan.com/ndrX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="EU| AUSTRIJA",NHK WORLD JAPAN HD
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="EU| AUSTRIJA",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9XfhgbS.png" group-title="EU| AUSTRIJA",Okto TV HD
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/512px-One_2022.svg.png" group-title="EU| AUSTRIJA",One HD
+https://s6.hopslan.com/oneX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/40p3eif.png" group-title="EU| AUSTRIJA",ORF 1 HD
+https://s6.hopslan.com/orfx1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ORF_2_HD_neu.svg/512px-ORF_2_HD_neu.svg.png" group-title="EU| AUSTRIJA",ORF 2W HD
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SY0YkTc.png" group-title="EU| AUSTRIJA",phoenix HD
+https://s6.hopslan.com/phoenixX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="EU| AUSTRIJA",ProSieben HD
+https://s6.hopslan.com/pro7X/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/512px-ProSieben_MAXX_Logo.svg.png" group-title="EU| AUSTRIJA",ProSieben Maxx HD
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="EU| AUSTRIJA",Pyatnica! International (RU)
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/512px-Rbb_fernsehen_HD_Logo_2017.svg.png" group-title="EU| AUSTRIJA",RBB Fernsehen HD
+https://s6.hopslan.com/rbbX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/RTL_HD_Logo_2021.svg/512px-RTL_HD_Logo_2021.svg.png" group-title="EU| AUSTRIJA",RTL HD
+https://s6.hopslan.com/rtlXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nitro_Logo-HD.svg/512px-Nitro_Logo-HD.svg.png" group-title="EU| AUSTRIJA",RTL Nitro HD
+https://s6.hopslan.com/nitroX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/RTLZWEI_HD_Logo_seit_2019.svg/512px-RTLZWEI_HD_Logo_seit_2019.svg.png" group-title="EU| AUSTRIJA",RTLZWEI HD
+https://s6.hopslan.com/rtl2X/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sat.1_Gold_HD_Logo_2019.svg/512px-Sat.1_Gold_HD_Logo_2019.svg.png" group-title="EU| AUSTRIJA",SAT.1 GOLD HD
+https://s6.hopslan.com/goldX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sat._1_HD_Logo_transparent.png/512px-Sat._1_HD_Logo_transparent.png" group-title="EU| AUSTRIJA",SAT.1 HD
+https://s6.hopslan.com/sat1X/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3Dadx9.png" group-title="EU| AUSTRIJA",Servus TV HD
+https://s6.hopslan.com/servusX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/SixxHD.svg/512px-SixxHD.svg.png" group-title="EU| AUSTRIJA",sixx HD
+https://s6.hopslan.com/sixX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_Sport1HD_2013.svg/512px-Logo_Sport1HD_2013.svg.png" group-title="EU| AUSTRIJA",sport1 HD
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6KzchP.png" group-title="EU| AUSTRIJA",Super RTL HD
+https://s6.hopslan.com/superX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/512px-Tagesschau24HD.svg.png" group-title="EU| AUSTRIJA",tagesschau24 HD
+https://s6.hopslan.com/tagesschauX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qndBq3V.png" group-title="EU| AUSTRIJA",TELE 5 HD
+https://s6.hopslan.com/tele5X/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/512px-TIROL_TV_Logo_2019.png" group-title="EU| AUSTRIJA",TIROL TV HD
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/VOX_HD_Germany_Logo_2013.svg/512px-VOX_HD_Germany_Logo_2013.svg.png" group-title="EU| AUSTRIJA",VOX HD
+https://s6.hopslan.com/voxX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FpVNrxk.png" group-title="EU| AUSTRIJA",W24 HD
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GbOfhQx.png" group-title="EU| AUSTRIJA",WDR HD
+https://s6.hopslan.com/wdrX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIOXRek.png" group-title="EU| AUSTRIJA",ZDF HD
+https://s6.hopslan.com/zdfX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5CXdzO.png" group-title="EU| AUSTRIJA",ZDF info HD
+https://s6.hopslan.com/zdfinfoX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ZDFneo_HD_%282017%29.png/512px-ZDFneo_HD_%282017%29.png" group-title="EU| AUSTRIJA",ZDF neo HD
+https://s6.hopslan.com/zdfneoX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/3sat_HD_2019.svg/512px-3sat_HD_2019.svg.png" group-title="EU| AUSTRIJA",3sat HD
+https://s6.hopslan.com/3satX/tracks-v1a1/mono.ts.m3u8
